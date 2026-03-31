@@ -1,0 +1,3 @@
+[submodule "external/moviad"]
+	path = external/moviad
+	url = https://github.com/NicoleteCK/moviad.git
